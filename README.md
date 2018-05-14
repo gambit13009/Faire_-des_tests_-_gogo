@@ -67,7 +67,7 @@ et Tester la Version en Local host en allant dans ton navigateur sur :
 Aller sur les liens Heroku suivants
 
 
-> https://blooming-taiga-22132.herokuapp.com
+> https://sheltered-ridge-34483.herokuapp.com/
 
 
 
